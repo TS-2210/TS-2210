@@ -13,6 +13,7 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 -->
+👩‍💻About me:
 - 🎓 I am a first-year CS + Maths Student @ University of Manchester
 - 💡 Passionate about algorithms, data science, and mathematical computing
 - 🌱 Current courses: team web development, programming I, mathematical foundations & analysis, and probability theory
@@ -27,7 +28,7 @@ Here are some ideas to get you started:
 learning-journal — Weekly notes on what I’m studying and coding
 cs50x — Exercises and notes from Harvard’s CS50 course
 maths-visuals — Visual experiments linking maths and code-->
-- 📫 Connect with Me
+📫 Connect with Me:
 - 💼 [LinkedIn](www.linkedin.com/in/trisha-sengupta-41201137b)
 <!--✉️ Email
 🌐 Personal Website-->
