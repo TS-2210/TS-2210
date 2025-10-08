@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 📈 Interested in AI (NLP), data science, quantum computing, and software engineering
 ⚡ Fun fact: I'm in my university's Tango society! (even though I severely lack the grace of a dancer...)
 
-<--🚀 Featured Projects
+<!--🚀 Featured Projects
 🧮 Matrix Visualizer — Interactive tool to visualise matrix transformations
 📊 LeetCode Solutions — My structured problem-solving practice
 🌍 Portfolio Website — Personal site built with HTML/CSS and GitHub Pages
@@ -29,7 +29,7 @@ cs50x — Exercises and notes from Harvard’s CS50 course
 maths-visuals — Visual experiments linking maths and code-->
 📫 Connect with Me
 💼 [LinkedIn] (www.linkedin.com/in/trisha-sengupta-41201137b)
-<--✉️ Email
+<!--✉️ Email
 🌐 Personal Website-->
 
 If you like something here or want to work on something cool together, feel free to ⭐️ a repo or reach out!
