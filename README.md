@@ -28,7 +28,7 @@ learning-journal — Weekly notes on what I’m studying and coding
 cs50x — Exercises and notes from Harvard’s CS50 course
 maths-visuals — Visual experiments linking maths and code-->
 - 📫 Connect with Me
-- 💼 [LinkedIn] (www.linkedin.com/in/trisha-sengupta-41201137b)
+- 💼 [LinkedIn](www.linkedin.com/in/trisha-sengupta-41201137b)
 <!--✉️ Email
 🌐 Personal Website-->
 
