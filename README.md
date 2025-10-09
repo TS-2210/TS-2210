@@ -31,6 +31,7 @@ maths-visuals — Visual experiments linking maths and code-->
 📫 Connect with Me:
 - 💼 [LinkedIn](https://www.linkedin.com/in/trisha-sengupta-41201137b)
 <!--✉️ Email
-🌐 Personal Website-->
+🌐 Personal Website
+⭐️ a repo or-->
 
-- If you like something here or want to work on something cool together, feel free to ⭐️ a repo or reach out!
+- If you like something here or want to work on something cool together, feel free to reach out!
