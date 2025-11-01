@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 - 💡 Passionate about algorithms, data science, and mathematical computing
 - 🌱 Current courses: team web development, programming I, mathematical foundations & analysis, and probability theory
 - 📈 Interested in AI (NLP), data science, quantum computing, and software engineering
-- ⚡ Fun fact: I'm in my university's Tango society! (even though I severely lack the grace of a dancer...)
+<!--- ⚡ Fun fact: I'm in my university's Tango society! (even though I severely lack the grace of a dancer...)-->
 
 <!--🚀 Featured Projects
 🧮 Matrix Visualizer — Interactive tool to visualise matrix transformations
