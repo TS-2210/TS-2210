@@ -30,8 +30,7 @@ cs50x — Exercises and notes from Harvard’s CS50 course
 maths-visuals — Visual experiments linking maths and code-->
 📫 Connect with Me:
 - 💼 [LinkedIn](https://www.linkedin.com/in/t-sengupta)
+- If you like something here or want to work on something cool together, feel free to reach out!
 <!--✉️ Email
 🌐 Personal Website
 ⭐️ a repo or-->
-
-- If you like something here or want to work on something cool together, feel free to reach out!
