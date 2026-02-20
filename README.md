@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 - 🎓 I am a first-year CS + Maths Student @ University of Manchester
 - 🌱 Current courses: team web development, programming I, mathematical foundations & analysis, and probability theory
 - 📈 Interested in AI (NLP), data science, quantum computing, and software engineering
-- 🧠 Experience: Python, Java, C#, SQL, PHP, HTML/CSS/JS
+- 🧠 Experience: Python, Java, C#, SQL, R, PHP, HTML/CSS/JS
 <!--- ⚡ Fun fact: I'm in my university's Tango society! (even though I severely lack the grace of a dancer...)-->
 
 <!--🚀 Featured Projects
