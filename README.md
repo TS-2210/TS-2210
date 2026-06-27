@@ -1,4 +1,4 @@
-## Hi there, I'm Trisha! 👋
+## Trisha Sengupta
 
 <!--
 **TS-2210/TS-2210** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -15,11 +15,13 @@ Here are some ideas to get you started:
 -->
 <!-- 💡 Passionate about algorithms, data science, and mathematical computing-->
 👩‍💻About me:
-- 🎓 I am a first-year CS + Maths Student @ University of Manchester
-- 🌱 Current courses: team web development, programming I, mathematical foundations & analysis, and probability theory
-- 📈 Interested in AI (NLP), data science, quantum computing, and software engineering
-- 🧠 Experience: Python, Java, C#, SQL, R, PHP, HTML/CSS/JS
-<!--- ⚡ Fun fact: I'm in my university's Tango society! (even though I severely lack the grace of a dancer...)-->
+- I am a CS + Maths Student @ University of Manchester
+- Relevant courses: Introduction to Programming (Python and Java), Mathematical Foundations & Analysis, Probability, Statistics, Data Science
+- Interested in AI (NLP), data science, statistics and analysis
+
+🧠 Experience: 
+- Languages: Python, Java, C#, SQL, R, PHP, HTML/CSS/JS
+- Tools: PostgreSQL, Git, GitLab, Linux, VSCode, Flask, NodeJS, MATLAB, Jupyter Notebook, Streamlit
 
 <!--🚀 Featured Projects
 🧮 Matrix Visualizer — Interactive tool to visualise matrix transformations
@@ -30,7 +32,7 @@ learning-journal — Weekly notes on what I’m studying and coding
 cs50x — Exercises and notes from Harvard’s CS50 course
 maths-visuals — Visual experiments linking maths and code-->
 📫 Connect with Me:
-- 💼 [LinkedIn](https://www.linkedin.com/in/t-sengupta)
+- [LinkedIn](https://www.linkedin.com/in/t-sengupta)
 - If you like something here or want to work on something cool together, feel free to reach out!
 <!--✉️ Email
 🌐 Personal Website
