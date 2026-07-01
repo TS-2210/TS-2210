@@ -21,7 +21,7 @@ Here are some ideas to get you started:
 
 🧠 Experience: 
 - Languages: Python, Java, C#, SQL, R, PHP, HTML/CSS/JS
-- Tools: PostgreSQL, Git, GitLab, Linux, VSCode, Flask, NodeJS, MATLAB
+- Tools: PostgreSQL, Git, GitLab, Linux, VSCode, Flask, NodeJS, MATLAB, Jupyter Notebook, Streamlit
 
 
 <!--🚀 Featured Projects
