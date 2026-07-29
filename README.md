@@ -35,7 +35,7 @@ maths-visuals — Visual experiments linking maths and code-->
 - [LinkedIn](https://www.linkedin.com/in/t-sengupta)
 - If you like something here or want to work on something cool together, feel free to reach out!
 
-- ![Profile view counter on GitHub](https://komarev.com/ghpvc/?username=TS-2210)
+![Profile view counter on GitHub](https://komarev.com/ghpvc/?username=TS-2210)
 <!--✉️ Email
 🌐 Personal Website
 ⭐️ a repo or-->
