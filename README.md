@@ -23,8 +23,6 @@ Here are some ideas to get you started:
 - Languages: Python, Java, C#, SQL, R, PHP, HTML/CSS/JS
 - Tools: PostgreSQL, Git, GitLab, Linux, VSCode, Flask, NodeJS, MATLAB, Jupyter Notebook, Streamlit
 
-![Profile view counter on GitHub](https://komarev.com/ghpvc/?username=TS-2210)
-
 <!--🚀 Featured Projects
 🧮 Matrix Visualizer — Interactive tool to visualise matrix transformations
 📊 LeetCode Solutions — My structured problem-solving practice
@@ -36,6 +34,8 @@ maths-visuals — Visual experiments linking maths and code-->
 📫 Connect with Me:
 - [LinkedIn](https://www.linkedin.com/in/t-sengupta)
 - If you like something here or want to work on something cool together, feel free to reach out!
+
+- ![Profile view counter on GitHub](https://komarev.com/ghpvc/?username=TS-2210)
 <!--✉️ Email
 🌐 Personal Website
 ⭐️ a repo or-->
