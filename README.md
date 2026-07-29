@@ -23,6 +23,7 @@ Here are some ideas to get you started:
 - Languages: Python, Java, C#, SQL, R, PHP, HTML/CSS/JS
 - Tools: PostgreSQL, Git, GitLab, Linux, VSCode, Flask, NodeJS, MATLAB, Jupyter Notebook, Streamlit
 
+![Profile view counter on GitHub](https://komarev.com/ghpvc/?username=TS-2210)
 
 <!--🚀 Featured Projects
 🧮 Matrix Visualizer — Interactive tool to visualise matrix transformations
